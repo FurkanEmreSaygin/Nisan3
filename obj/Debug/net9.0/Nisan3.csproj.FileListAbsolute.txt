@@ -219,3 +219,4 @@ C:\Users\furky\Desktop\Nisan3\Nisan3\bin\Debug\net9.0\runtimes\win-x64\native\e_
 C:\Users\furky\Desktop\Nisan3\Nisan3\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
 C:\Users\furky\Desktop\Nisan3\Nisan3\obj\Debug\net9.0\Nisan3.csproj.AssemblyReference.cache
 C:\Users\furky\Desktop\Nisan3\Nisan3\obj\Debug\net9.0\Nisan3.csproj.Up2Date
+C:\Users\furky\Desktop\Nisan3\Nisan3\obj\Debug\net9.0\Nisan3.sourcelink.json
