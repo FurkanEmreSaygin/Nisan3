@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Nisan3.props" />
+</Project>
